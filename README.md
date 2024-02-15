@@ -22,4 +22,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screens
 
-[home](https://github.com/mathias-kinninkpo/stock-master-frontend/blob/main/assets/screens/1.jpeg "the Home Image")
+![home](https://github.com/mathias-kinninkpo/stock-master-frontend/blob/main/assets/screens/1.jpeg "the Home Image")
