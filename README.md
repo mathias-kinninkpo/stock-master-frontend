@@ -16,6 +16,10 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-### The backend is available here
+# The backend is available here
 
 [in this repository](https://github.com/mathias-kinninkpo/stock-master-api)
+
+## Screens
+
+[home](https://github.com/mathias-kinninkpo/stock-master-frontend/blob/main/assets/screens/1.jpeg "the Home Image")
